@@ -28,6 +28,6 @@ PubkeyAuthentication no
 
 ```
 vim ~/.ssh/known_hosts
-# 将带服务器ip的那一行输出
+# 将带服务器ip的那一行输出删除
 ```
 
